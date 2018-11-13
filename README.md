@@ -1,24 +1,18 @@
-# README
+# Rails Simple CRUD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Requirements
 
-Things you may want to cover:
+* Ruby 2.5.3
+* Ruby 5.2.1
+* PostgreSQL 9.5.14
 
-* Ruby version
+# How to use
 
-* System dependencies
+* rails new <nameapps>      | create new rails project
+* cd <nameapps>             | move to directory project
+* rake db:create            | create database
+* rails server              | start a web server
+* running at http://localhost:3000
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Author
+Ilham Adi Pratama | ilham.adhy@gmail.com
